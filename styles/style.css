@@ -195,3 +195,40 @@ main section {
   font-weight: 400;
   color: #757575;
 }
+
+/* Experience Section */
+.resume_container {
+  display: flex;
+  gap: 24px;
+}
+
+.resume_column_title {
+  font-size: 30px;
+  font-weight: 700;
+  color: #474747;
+}
+.experience_title {
+  font-size: 25px;
+  font-weight: 700;
+  color: #474747;
+  margin-bottom: -25px;
+}
+
+.experience_sub_title {
+  font-size: 20px;
+  font-weight: 600;
+  color: #757575;
+}
+
+.experience_description {
+  font-size: 16px;
+  font-weight: 400;
+  color: #757575;
+}
+
+.download_cv {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 50px;
+}
